@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830846389438",
+    "firebase_url": "https://emusix-app-default-rtdb.firebaseio.com",
+    "project_id": "emusix-app",
+    "storage_bucket": "emusix-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830846389438:android:39228ddf54ebaedaafe2ef",
+        "android_client_info": {
+          "package_name": "com.example.mood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830846389438-5uk7ialu7ksvv21a3s0ch0q86h8tp00d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1MKU75U9I0ljk9yLZdQrUMD1giWNqYkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830846389438-5uk7ialu7ksvv21a3s0ch0q86h8tp00d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
